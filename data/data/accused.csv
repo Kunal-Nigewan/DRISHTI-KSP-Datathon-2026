@@ -1,0 +1,76 @@
+AccusedMasterID,CaseMasterID,AccusedName,AgeYear,GenderID,PersonID,CrimeType,IPCSectionID,CrimeSeverity,Status
+1,1039,Raju Sharma,39,M,A1,Theft,379,LOW,Absconding
+2,1013,Raju Sharma,32,M,A1,Drug Peddling,420,HIGH,Released
+3,1016,Raju Sharma,36,M,A1,Abduction,366,CRITICAL,Released
+4,1028,Mohammed Siddiqui,43,M,A1,Online Scam,420,LOW,Under Surveillance
+5,1014,Mohammed Siddiqui,39,M,A1,Theft,379,LOW,Released
+6,1027,Mohammed Siddiqui,31,M,A1,Online Scam,420,LOW,Under Surveillance
+7,1006,Vikram Nair,38,M,A1,Abduction,366,CRITICAL,Released
+8,1022,Vikram Nair,31,M,A1,Drug Trafficking,420,HIGH,Under Surveillance
+9,1034,Vikram Nair,25,M,A1,Kidnapping,363,CRITICAL,Under Surveillance
+10,1011,Suresh Kumar,42,M,A1,Abduction,366,CRITICAL,Released
+11,1005,Suresh Kumar,23,M,A1,Drug Trafficking,420,HIGH,Released
+12,1032,Suresh Kumar,43,M,A1,Vehicle Theft,379,MEDIUM,Absconding
+13,1025,Ramesh Gowda,27,M,A1,Cyber Fraud,420,LOW,Released
+14,1036,Ramesh Gowda,43,M,A1,Cyber Fraud,420,LOW,Released
+15,1035,Ramesh Gowda,38,M,A1,Harassment,376,MEDIUM,Under Surveillance
+16,1001,Arjun Shetty,43,M,A2,Murder,302,CRITICAL,Under Surveillance
+17,1002,Vinod Kumar,21,M,A2,Assault,307,HIGH,Absconding
+18,1002,Kiran Patil,47,M,A3,Assault,307,HIGH,Absconding
+19,1003,Ganesh Rao,19,M,A2,Kidnapping,363,CRITICAL,Under Surveillance
+20,1003,Manisha Yadav,29,F,A3,Kidnapping,363,CRITICAL,Absconding
+21,1004,Vinod Kumar,23,M,A2,Drug Peddling,420,HIGH,Under Surveillance
+22,1005,Imran Khan,39,M,A2,Drug Trafficking,420,HIGH,Under Surveillance
+23,1006,Prakash Reddy,49,F,A2,Abduction,366,CRITICAL,Arrested
+24,1006,Kiran Patil,28,M,A3,Abduction,366,CRITICAL,Under Surveillance
+25,1007,Manoj Yadav,49,M,A2,Harassment,376,MEDIUM,Arrested
+26,1008,Naveen Raj,35,F,A2,Drug Trafficking,420,HIGH,Under Surveillance
+27,1008,Manisha Yadav,52,F,A3,Drug Trafficking,420,HIGH,Released
+28,1009,Naveen Raj,24,M,A2,Vehicle Theft,379,MEDIUM,Absconding
+29,1010,Manoj Yadav,37,M,A2,Online Scam,420,LOW,Arrested
+30,1011,Rohit Das,26,M,A2,Abduction,366,CRITICAL,Arrested
+31,1011,Vinod Kumar,50,F,A3,Abduction,366,CRITICAL,Absconding
+32,1012,Ganesh Rao,25,M,A2,Kidnapping,363,CRITICAL,Absconding
+33,1013,Prakash Reddy,44,M,A2,Drug Peddling,420,HIGH,Absconding
+34,1013,Prakash Reddy,23,F,A3,Drug Peddling,420,HIGH,Arrested
+35,1014,Imran Khan,28,M,A2,Theft,379,LOW,Arrested
+36,1015,Kiran Patil,20,F,A2,Burglary,380,MEDIUM,Absconding
+37,1016,Manoj Yadav,53,M,A2,Abduction,366,CRITICAL,Absconding
+38,1016,Salim Sheikh,26,M,A3,Abduction,366,CRITICAL,Released
+39,1017,Rohit Das,43,M,A2,Online Scam,420,LOW,Absconding
+40,1017,Sunil Naik,46,F,A3,Online Scam,420,LOW,Released
+41,1018,Prakash Reddy,48,F,A2,Murder,302,CRITICAL,Absconding
+42,1019,Sunil Naik,20,F,A2,Abduction,366,CRITICAL,Absconding
+43,1020,Vinod Kumar,29,F,A2,Assault,307,HIGH,Arrested
+44,1020,Kiran Patil,20,F,A3,Assault,307,HIGH,Arrested
+45,1021,Manoj Yadav,19,M,A2,Burglary,380,MEDIUM,Absconding
+46,1022,Manoj Yadav,46,M,A2,Drug Trafficking,420,HIGH,Released
+47,1022,Ravi Shankar,28,F,A3,Drug Trafficking,420,HIGH,Released
+48,1023,Salim Sheikh,26,F,A2,Cyber Fraud,420,LOW,Released
+49,1023,Ajay Singh,18,M,A3,Cyber Fraud,420,LOW,Under Surveillance
+50,1024,Rohit Das,51,F,A2,Drug Peddling,420,HIGH,Arrested
+51,1025,Shobha Begum,44,F,A21,Cyber Fraud,420,LOW,Under Surveillance
+52,1026,Arjun Shetty,54,M,A2,Abduction,366,CRITICAL,Arrested
+53,1026,Deepak Verma,53,M,A3,Abduction,366,CRITICAL,Absconding
+54,1027,Santhosh Kumar,18,F,A2,Online Scam,420,LOW,Absconding
+55,1027,Ganesh Rao,26,F,A3,Online Scam,420,LOW,Under Surveillance
+56,1028,Prakash Reddy,53,M,A2,Online Scam,420,LOW,Under Surveillance
+57,1028,Naveen Raj,29,F,A3,Online Scam,420,LOW,Arrested
+58,1029,Manoj Yadav,28,M,A2,Harassment,376,MEDIUM,Released
+59,1029,Sunil Naik,34,M,A3,Harassment,376,MEDIUM,Arrested
+60,1030,Vinod Kumar,33,F,A2,Kidnapping,363,CRITICAL,Absconding
+61,1031,Ajay Singh,38,M,A2,Vehicle Theft,379,MEDIUM,Released
+62,1031,Sunil Naik,55,F,A3,Vehicle Theft,379,MEDIUM,Arrested
+63,1032,Sunil Naik,31,F,A2,Vehicle Theft,379,MEDIUM,Released
+64,1032,Salim Sheikh,37,F,A3,Vehicle Theft,379,MEDIUM,Absconding
+65,1033,Salim Sheikh,21,F,A2,Drug Peddling,420,HIGH,Released
+66,1034,Ganesh Rao,47,M,A2,Kidnapping,363,CRITICAL,Arrested
+67,1035,Vinod Kumar,35,M,A2,Harassment,376,MEDIUM,Absconding
+68,1036,Deepak Verma,41,M,A2,Cyber Fraud,420,LOW,Arrested
+69,1037,Naveen Raj,41,F,A2,Kidnapping,363,CRITICAL,Released
+70,1037,Imran Khan,53,M,A3,Kidnapping,363,CRITICAL,Under Surveillance
+71,1038,Shobha Begum,45,F,A21,Online Scam,420,LOW,Arrested
+72,1038,Ravi Shankar,50,F,A3,Online Scam,420,LOW,Absconding
+73,1039,Ganesh Rao,54,M,A2,Theft,379,LOW,Released
+74,1039,Naveen Raj,55,M,A3,Theft,379,LOW,Arrested
+75,1040,Ganesh Rao,34,F,A2,Online Scam,420,LOW,Absconding

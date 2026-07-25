@@ -1,0 +1,15 @@
+CrimeSubHeadID,CrimeHeadID,CrimeHeadName,IPCSectionID
+1,1,Murder,302
+2,1,Assault,307
+3,2,Robbery,392
+4,2,Theft,379
+5,2,Chain Snatching,379
+6,2,Burglary,380
+7,2,Vehicle Theft,379
+8,3,Harassment,376
+9,4,Cyber Fraud,420
+10,4,Online Scam,420
+11,5,Drug Peddling,420
+12,5,Drug Trafficking,420
+13,6,Kidnapping,363
+14,6,Abduction,366
