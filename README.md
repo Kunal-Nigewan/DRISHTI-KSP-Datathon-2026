@@ -155,6 +155,14 @@ DRISHTI provides an AI-powered criminal intelligence platform that centralises c
 
 ---
 
+## 🎥 Demo Video
+
+Watch the complete DRISHTI demonstration here:
+
+https://drive.google.com/file/d/1Ky0CXyC0pNw7_l-fprAKGXodJUSBb7ex/view?usp=drivesdk
+
+---
+
 ## 📄 License
 
 This project was developed for the **Karnataka State Police Datathon 2026** for educational and demonstration purposes.
